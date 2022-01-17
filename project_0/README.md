@@ -8,13 +8,13 @@ From the [Skillfactory Data Science coures](https://lms.skillfactory.ru/courses/
 
 
 ##  Оглавление 
-[Описание проекта](https://github.com/TalibullinaEM/dspr76/tree/main/project_0\README.md#Описание-проекта)
+[Описание проекта](https://github.com/TalibullinaEM/dspr76/blob/main/project_0/README.md#Описание-проекта)
 
-[Какой кейс мы решаем](https://github.com/TalibullinaEM/dspr76/tree/main/project_0\README.md#какой-кейс-мы-решаем)
+[Какой кейс мы решаем](https://github.com/TalibullinaEM/dspr76/blob/main/project_0/README.md#какой-кейс-мы-решаем)
 
-[Этапы работы над проектом](https://github.com/TalibullinaEM/dspr76/tree/main/project_0\README.md#Этапы-работы-на_проектом)
+[Этапы работы над проектом](https://github.com/TalibullinaEM/dspr76/blob/main/project_0/README.md#Этапы-работы-над_проектом)
 
-[Какие результаты были получены](ttps://github.com/TalibullinaEM/dspr76/tree/main/project_0\README.md#)
+[Какие результаты были получены](https://github.com/TalibullinaEM/dspr76/blob/main/project_0/README.md#Какие-результаты-были-получены)
 
 
 ### Описание проекта
@@ -22,10 +22,10 @@ From the [Skillfactory Data Science coures](https://lms.skillfactory.ru/courses/
 
 
 ### Какой кейс мы решаем
-Написать программу, которая угадает загаданое компьютером число оза минимаьное количество попыток
+Написать программу, которая угадает загаданое компьютером число за минимальное количество попыток
 
 **Условия соревнования :**
-- Компьютер загадывает целое число от 1 до 100, и нам его нужно угадать, т.е. «написать программу, которая угадывает число».
+- Компьютер загадывает целое число от 1 до 100, и нам его нужно угадать, т.е. "написать программу", которая угадывает число.
 - Алгоритм учитывает информацию о том, больше ли или меньше случайное число нужного нам числа.
 
 **Метрика качества:**
@@ -37,9 +37,6 @@ From the [Skillfactory Data Science coures](https://lms.skillfactory.ru/courses/
 - Учимся писать хороший код на Python.
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
-
-
-
 
 ### Этапы работы над проектом
 - за основу взят код с базовым решением задачи
