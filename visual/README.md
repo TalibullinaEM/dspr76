@@ -8,13 +8,13 @@ From the [Skillfactory Data Science coures](https://lms.skillfactory.ru/courses/
 
 
 ##  Оглавление 
-[Описание проекта](https://github.com/TalibullinaEM/dspr76/blob/main/vizual/README.md#Описание-проекта)
+[Описание проекта](https://github.com/TalibullinaEM/dspr76/tree/main/visual/README.md#Описание-проекта)
 
-[Какой кейс мы решаем](https://github.com/TalibullinaEM/dspr76/blob/main/vizual/README.md#какой-кейс-мы-решаем)
+[Какой кейс мы решаем](https://github.com/TalibullinaEM/dspr76/tree/main/visual/README.md#какой-кейс-мы-решаем)
 
-[Этапы работы над проектом](https://github.com/TalibullinaEM/dspr76/blob/main/vizual/README.md#Этапы-работы-над_проектом)
+[Этапы работы над проектом](https://github.com/TalibullinaEM/dspr76/tree/main/visual/README.md#Этапы-работы-над_проектом)
 
-[Какие результаты были получены](https://github.com/TalibullinaEM/dspr76/blob/main/vizual/README.md#Какие-результаты-были-получены)
+[Какие результаты были получены](https://github.com/TalibullinaEM/dspr76/tree/main/visual/README.md#Какие-результаты-были-получены)
 
 
 ### Описание проекта
