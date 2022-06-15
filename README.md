@@ -10,3 +10,5 @@ From the [Skillfactory Data Science coures](https://lms.skillfactory.ru/courses/
 
 [Проект 1. Визуализация данных. Закрепление знаний](https://github.com/TalibullinaEM/dspr76/tree/main/visual)
 
+[Проект 1. Анализ вакансий на hh.ru](https://github.com/TalibullinaEM/dspr76/tree/main/project_1)
+
