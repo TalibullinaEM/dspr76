@@ -23,6 +23,8 @@ https://drive.google.com/file/d/1n5FyM5BQAV--B7NjNgUcEqhYYSq2-luB/view?usp=shari
 
 Также в работе используется выгруженные данные с курсами валют - https://drive.google.com/file/d/1K00YroOERLlPsEaEgeqZ4kclhKTWyeja/view?usp=sharing.
 
+Файлы с графиками находятся на гугл диске, в папке https://drive.google.com/drive/folders/1hxWFGv_UO8OEFXx_snE9gzXVsodTU8Gl?usp=sharing
+
 Файл ноутбука, база резюме и данные с курсами для воспроизводимости должны находиться в одной папке.
 
 !!! В папке fig (https://github.com/TalibullinaEM/dspr76/tree/main/project_1/fig) находятся графики для раздела  **Исследование зависимостей в данных**, построенные в plotly.express и не отображаемые на github
